@@ -1,0 +1,181 @@
+[
+    {
+        "name": "jonnie",
+        "dining_time": "Dined 1 day ago",
+        "rating": "5",
+        "food_quality": null,
+        "staff_service": [
+            "Customer service was great",
+            "waiter was spectacular"
+        ]
+    },
+    {
+        "name": "Shalisha",
+        "dining_time": "Dined 1 day ago",
+        "rating": "5",
+        "food_quality": "extremely amazing and cooked to perfection",
+        "staff_service": "informed customers they could sit at the bar and order drinks while waiting for seating"
+    },
+    {
+        "name": "Destini",
+        "dining_time": "Dined 1 day ago",
+        "rating": "5",
+        "food_quality": "Great food",
+        "staff_service": "Great server, Emilio was a good host"
+    },
+    {
+        "name": "Toliglhia",
+        "dining_time": "Dined 1 day ago",
+        "rating": "5",
+        "food_quality": "",
+        "staff_service": ""
+    },
+    {
+        "name": "Melicia",
+        "dining_time": "Dined 1 day ago",
+        "rating": "5",
+        "food_quality": "",
+        "staff_service": ""
+    },
+    {
+        "name": "Ritha",
+        "dining_time": "Dined 4 days ago",
+        "rating": "5",
+        "food_quality": "delicious",
+        "staff_service": "amazing"
+    },
+    {
+        "name": "Arnold",
+        "dining_time": "Dined on December 1, 2024",
+        "rating": "5",
+        "food_quality": "Delicious food",
+        "staff_service": [
+            "Great service",
+            "Awesome personnel"
+        ]
+    },
+    {
+        "name": "Ariel",
+        "dining_time": "Dined on November 30, 2024",
+        "rating": "5",
+        "food_quality": "incredible",
+        "staff_service": "amazing"
+    },
+    {
+        "name": "Klaus",
+        "dining_time": "Dined on November 30, 2024",
+        "rating": "4",
+        "food_quality": null,
+        "staff_service": {
+            "speed": "super fast service",
+            "staff_attitude": "nice staff"
+        }
+    },
+    {
+        "name": "Robin",
+        "dining_time": "Dined on November 30, 2024",
+        "rating": "5",
+        "food_quality": "delicious food",
+        "staff_service": "waiter connected with party without being intrusive, was efficient and professional"
+    },
+    {
+        "name": "remi",
+        "dining_time": "Dined on November 29, 2024",
+        "rating": "5",
+        "food_quality": null,
+        "staff_service": [
+            "Server (Alex) was gracious, humorous and accommodating",
+            "Provided great service experience"
+        ]
+    },
+    {
+        "name": "Reagan",
+        "dining_time": "Dined on November 28, 2024",
+        "rating": "2",
+        "food_quality": [
+            "steak was just okay",
+            "lobster was not good at all",
+            "food came out warm but not hot",
+            "food was not worth what we paid"
+        ],
+        "staff_service": [
+            "service was terrible"
+        ]
+    },
+    {
+        "name": "Eric",
+        "dining_time": "Dined on November 22, 2024",
+        "rating": "5",
+        "food_quality": [
+            "Excellent meal",
+            "Fantastic filet mignon and lobster",
+            "Side portions were generous (enough for 2 people)",
+            "Wine noted as expensive"
+        ],
+        "staff_service": []
+    },
+    {
+        "name": "Belle",
+        "dining_time": "Dined on November 22, 2024",
+        "rating": "5",
+        "food_quality": "",
+        "staff_service": ""
+    },
+    {
+        "name": "Chase",
+        "dining_time": "Dined on November 20, 2024",
+        "rating": "5",
+        "food_quality": "Food was amazing",
+        "staff_service": null
+    },
+    {
+        "name": "Gregory",
+        "dining_time": "Dined on November 14, 2024",
+        "rating": "5",
+        "food_quality": "food was top tier",
+        "staff_service": "service was top tier"
+    },
+    {
+        "name": "Collette",
+        "dining_time": "Dined on November 10, 2024",
+        "rating": "4",
+        "food_quality": "good food",
+        "staff_service": "initial seating was problematic but improved after relocation"
+    },
+    {
+        "name": "OpenTable Diner",
+        "dining_time": "Dined on November 10, 2024",
+        "rating": "5",
+        "food_quality": "The Duck was outstanding",
+        "staff_service": "Waiter suggested menu items and provided excellent service"
+    },
+    {
+        "name": "Trevor",
+        "dining_time": "Dined on November 10, 2024",
+        "rating": "5",
+        "food_quality": "hot and full of flavor",
+        "staff_service": "incredible"
+    },
+    {
+        "name": "Duaine",
+        "dining_time": "Dined on November 10, 2024",
+        "rating": "5",
+        "food_quality": "food is always on point",
+        "staff_service": [
+            "service is always on point",
+            "server took time to explain everything",
+            "server kept checking in",
+            "server had pleasant personality"
+        ]
+    },
+    {
+        "name": "Stephen",
+        "dining_time": "Dined on November 10, 2024",
+        "rating": "4",
+        "food_quality": "Great Food",
+        "staff_service": {
+            "positive": "staff was very nice and kind",
+            "negative": "Service to cost was not there"
+        }
+    }
+]

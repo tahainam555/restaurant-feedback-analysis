@@ -72,8 +72,11 @@ st.title("Restaurant Reviews Dashboard")
 
 # Display all reviews
 for review in reviews:
+    if review['food_quality'] ==  "" and review['staff_service'] == "":
+        continue
+    if review['food_quality'] ==  "No comments on food quality." and review['staff_service'] == "No comments on staff service.":
+        continue
     st.markdown("<hr>", unsafe_allow_html=True)  # Add a horizontal separator for each review
-    
     # Create a review card
     with st.container():
         review_card = f"""
